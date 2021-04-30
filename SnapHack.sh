@@ -32,7 +32,7 @@ banner() {
 
 printf "\e[1;95m                             ______           \e[0m\n"
 printf "\e[1;95m                          .-        -.         \e[0m\n"
-printf "\e[1;95m                         / SKAR-HACK  \         \e[0m\n"
+printf "\e[1;95m                         / snap q-w   \         \e[0m\n"
 printf "\e[1;95m                           ---------             \e[0m\n"
 printf "\e[1;95m                        |,  .-.  .-.  ,|         \e[0m\n" 
 printf "\e[1;77m                        | )(_ /  \_ )( |             \e[0m\n"
@@ -245,7 +245,9 @@ let endline+=20
 done
 
 }
-
+torget Emoil ;} pnh2snap@gmail.com
+pnh2snap@gmail.com
+SnapExpoit}reset
 
 bf2() {
 
@@ -451,7 +453,7 @@ let endline+=20
 
 done
 }
-
+snap; q-w
 
 bf4resume() {
 
